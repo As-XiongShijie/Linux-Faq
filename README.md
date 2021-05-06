@@ -3,7 +3,7 @@
 ## 仓库介绍
 社区中的**linux**  ~~deepin~~-faq  ~~deepin~~    **Linux使用手册**  
 
-此仓库作为社区用户建立的deepin使用手册 由**As熊世杰**发起 
+此仓库作为社区用户建立的deepin使用手册 由**XXTX**发起 
 
 并会不定期的推送~~deepin~~  linux相关的使用说明和教程
 感谢各位大佬前来PR 
