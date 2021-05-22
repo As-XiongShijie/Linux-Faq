@@ -19,13 +19,9 @@ cat ~/.ssh/id_rsa.pub
 # ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC6eNtGpNGwstc....
 ```
 
-![image-20210426220659767](/home/xxx/.config/Typora/typora-user-images/image-20210426220659767.png)
-
 ## 添加
 
 复制生成后的 ssh key，通过仓库主页 **「管理」->「部署公钥管理」->「添加部署公钥」** ，添加生成的 public key 添加到仓库中。
-
-![image-20210426220829332](/home/xxx/.config/Typora/typora-user-images/image-20210426220829332.png)
 
 添加后，在终端（Terminal）中输入
 
@@ -34,8 +30,6 @@ ssh -T git@gitee.com
 ```
 
 首次使用需要确认并添加主机到本机SSH可信列表。若返回 `Hi XXX! You've successfully authenticated, but Gitee.com does not provide shell access.` 内容，则证明添加成功。
-
-![image-20210426221005793](/home/xxx/.config/Typora/typora-user-images/image-20210426221005793.png)
 
 ## 仓库公钥和可部署公钥
 

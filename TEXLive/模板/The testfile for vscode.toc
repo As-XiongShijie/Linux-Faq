@@ -1,0 +1,2 @@
+\contentsline {section}{\numberline {1}这个地方是文章内的小标题}{1}{section.1}%
+\contentsline {section}{\numberline {2}这个地方是文章内的小标题，第二个哦}{1}{section.2}%
