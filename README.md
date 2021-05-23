@@ -6,6 +6,7 @@
 此仓库作为社区用户建立的 linux 使用手册 由**XXTX**发起 
 
 国内仓库： https://gitee.com/xiongshijie_1/deepin-faq.git
+将会把国内这个仓库作为主要的仓库来使用，github上仅为备份所用，最新版本请参照GITEE
 
 主要用来记录我自己在使用Linux中遇见的问题和解决方案
 
