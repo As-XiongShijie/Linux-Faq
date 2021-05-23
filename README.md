@@ -5,6 +5,8 @@
 
 此仓库作为社区用户建立的 linux 使用手册 由**XXTX**发起 
 
+国内仓库： https://gitee.com/xiongshijie_1/deepin-faq.git
+
 主要用来记录我自己在使用Linux中遇见的问题和解决方案
 
 并会不定期的推送 linux相关的使用说明和教程 ，感谢各位大佬前来PR 。
